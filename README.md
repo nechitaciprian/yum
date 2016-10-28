@@ -1,3 +1,3 @@
 What is YUM?
-- scripting language to support BDD integration testing
+- scripting language supporting BDD integration testing
 - implemented using Cucumber and Selenium WebDriver
